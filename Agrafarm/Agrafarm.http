@@ -1,0 +1,6 @@
+@Agrafarm_HostAddress = http://localhost:5244
+
+GET {{Agrafarm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
